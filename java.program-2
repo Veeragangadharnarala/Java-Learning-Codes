@@ -1,0 +1,9 @@
+JAVA :
+
+2. Print Your Name  
+
+class PrintName {
+    public static void main(String[] args) {
+        System.out.println("My Name is Ram Sai");
+    }
+}
