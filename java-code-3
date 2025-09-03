@@ -1,0 +1,9 @@
+// 3. Variables and Data Types
+class Variables {
+    public static void main(String[] args) {
+        int age = 23;
+        double weight = 49.5;
+        String name = "veera Gangadhar";
+        System.out.println(name + " is " + age + " years old, weight: " + weight);
+    }
+}
